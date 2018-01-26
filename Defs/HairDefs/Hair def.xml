@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<label>Trump</label>
+		<hairGender>Male</hairGender>
+		<texPath>things/pawn/humanlike/hairs/trump</texPath>
+		<defName>Trump</defName>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+		</hairTags>
+	</HairDef>
+
+</Defs>
